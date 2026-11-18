@@ -1,4 +1,4 @@
-# Project 1 - Finding Similar arXiv Abstracts
+# Project 1 - Finding Similar items in arXiv dataset
 
 This project uses the Kaggle dataset:
 
